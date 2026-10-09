@@ -44,5 +44,5 @@ The project includes normal, boundary, invalid-input and duplicate-record test c
 
 ## Student
 Rehan
-FY B.Tech AI/ML
+FY B.Tech AI/DS
 Sanjivani University
